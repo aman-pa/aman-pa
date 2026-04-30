@@ -23,8 +23,8 @@
 ### 🌐 Connect with me
 <p align="left">
 
-<a href="https://www.linkedin.com/in/aman-pandey-14023933a/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+Linkedin:- <a href="https://www.linkedin.com/in/aman-pandey-14023933a/" target="_blank"><br>
+Leetcode:-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
 </a>
 
 <a href="https://leetcode.com/u/aman____pandey/" target="_blank">
