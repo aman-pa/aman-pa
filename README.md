@@ -23,10 +23,10 @@
 ### 🌐 Connect with me
 <p align="left">
 
-Linkedin:- <a href="https://www.linkedin.com/in/aman-pandey-14023933a/" target="_blank"><br>
-Leetcode:-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+Linkedin:- <a href="https://www.linkedin.com/in/aman-pandey-14023933a/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
 </a>
-
+Leetcode:-
 <a href="https://leetcode.com/u/aman____pandey/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/>
 </a>
