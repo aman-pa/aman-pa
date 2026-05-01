@@ -34,9 +34,8 @@ I enjoy building, learning, and continuously pushing my limits in tech 🚀
 ## 📊 GitHub Stats:
 
 <p align="center">
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-pa&layout=compact&theme=tokyonight"/>
+<img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aman-pa&layout=compact&theme=tokyonight"/>
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies:
