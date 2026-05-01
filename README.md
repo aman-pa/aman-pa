@@ -5,9 +5,20 @@ I enjoy building, learning, and continuously pushing my limits in tech 🚀
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aman%20Pandey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-pandey-14023933a/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Aman%20Pandey-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aman____Pandey/)
-[![Email](https://img.shields.io/badge/Email-amanpandey10a3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanpandey10a3@gmail.com)
+
+<p align="left">
+<a href="https://www.linkedin.com/in/aman-pandey-14023933a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Aman____Pandey/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:amanpandey10a3@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
@@ -50,5 +61,4 @@ I enjoy building, learning, and continuously pushing my limits in tech 🚀
 
 ---
 
-⭐️ *“First, solve the problem. Then, write the code.”*  
-🚀 Keep building. Keep improving. Keep shipping.
+⭐️ **Thanks for visiting my GitHub! Feel free to check out my projects and connect with me.**
