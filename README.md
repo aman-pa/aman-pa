@@ -1,66 +1,58 @@
-<img src="https://raw.githubusercontent.com/aman-pa/aman-pa/main/banner.png" width="100%" />
+## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Aman Pandey</h1>
-<h3 align="center">🚀 BTech CSE Student | 💻 Developer | 🌱 Tech Enthusiast</h3>
-
----
-
-<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/animations/coding.gif"/>
-
-### 👨‍💻 About Me
-- 🎓 BTech CSE student at **LPU**
-- 💡 Interested in **Web Development & Problem Solving**
-- 🌱 Currently learning **Full Stack Development**
-- ⚡ Love building real-world projects
+# 💫 About Me:
+Hii I'm Aman Pandey, I love to code.
 
 ---
 
-### 📫 Contact Me
-- 📧 Email: **amanpandey10a3@gmail.com**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aman%20Pandey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-pandey-14023933a/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Aman%20Pandey-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aman____Pandey/)  
+[![Email](https://img.shields.io/badge/Email-amanpandey10a3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanpandey10a3@gmail.com)
 
 ---
 
-### 🌐 Connect with me
-<p align="left">
-
-Linkedin:- <a href="https://www.linkedin.com/in/aman-pandey-14023933a/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
-  <br>
-</a>
-Leetcode:-
-<a href="https://leetcode.com/u/aman____pandey/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/>
-</a>
-
-</p>
-
----
-
-### 🛠️ Languages and Tools
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,nodejs,express,mongodb,mysql,postgresql" />
-</p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aman-pa&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aman-pa&layout=compact&theme=tokyonight" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aman-pa&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=aman-pa&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-pa&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aman-pa&theme=tokyonight" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aman-pa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
-### 🚀 Fun Fact
-> 💡 "Consistency beats talent when talent doesn’t work hard."<br><br>
-> ⭐️ Thanks for visiting my GitHub! Feel free to check out my projects and connect with me.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+---
+
+⭐️ *Thanks for visiting my GitHub! Feel free to check out my projects and connect with me.*  
+
+[![](https://visitcount.itsvg.in/api?id=aman-pa&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+- 🔭 I’m currently working on **Full Stack Projects**
+- 🌱 I’m currently learning **MERN Stack**
+- 👯 I’m looking to collaborate on **Web Development Projects**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python**
+- 📫 How to reach me: **amanpandey10a3@gmail.com**
+- ⚡ Fun fact: **I love building cool projects 🚀**
