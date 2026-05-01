@@ -1,4 +1,4 @@
-# 💫 About Me:
+💫 About Me:
 
 I’m Aman Pandey — passionate about turning ideas into real-world web applications and solving problems that actually matter.  
 I enjoy building, learning, and continuously pushing my limits in tech 🚀
@@ -31,16 +31,21 @@ I enjoy building, learning, and continuously pushing my limits in tech 🚀
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aman-pa&show_icons=true&theme=tokyonight" />
-</p>
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=aman-pa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://streak-stats.demolab.com?user=aman-pa&theme=tokyonight&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-pa&theme=tokyonight&hide_border=false&layout=compact)
+
+## 🏆 GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aman-pa&layout=compact&theme=tokyonight" />
+<img src="https://github-profile-trophy.vercel.app/?username=aman-pa&theme=radical&no-frame=true&margin-w=10"/>
 </p>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PrRj06&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
 
 ## ✍️ Random Dev Quote:
 
@@ -50,4 +55,4 @@ I enjoy building, learning, and continuously pushing my limits in tech 🚀
 
 ---
 
-⭐️ **Thanks for visiting my GitHub! Feel free to check out my projects and connect with me.**
+⭐️ **Thanks for visiting my GitHub! Feel free to check out my projects and connect with me.** 
