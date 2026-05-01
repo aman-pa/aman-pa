@@ -62,5 +62,5 @@ Leetcode:-
 ---
 
 ### 🚀 Fun Fact
-> 💡 "Consistency beats talent when talent doesn’t work hard."
+> 💡 "Consistency beats talent when talent doesn’t work hard."<br>
 > ⭐️ Thanks for visiting my GitHub! Feel free to check out my projects and connect with me.
