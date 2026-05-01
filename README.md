@@ -39,12 +39,8 @@ I enjoy building, learning, and continuously pushing my limits in tech 🚀
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aman-pa&layout=compact&theme=tokyonight" />
 </p>
-## 🏆 GitHub Trophies:
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aman-pa&theme=radical&no-frame=false&no-bg=false&margin-w=8"/>
-</p>
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PrRj06&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## ✍️ Random Dev Quote:
 
