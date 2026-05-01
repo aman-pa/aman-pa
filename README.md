@@ -33,10 +33,11 @@ I enjoy building, learning, and continuously pushing my limits in tech 🚀
 
 ## 📊 GitHub Stats:
 
-<p align="center">
-<img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aman-pa&layout=compact&theme=tokyonight"/>
-</p>
----
+![](https://github-readme-stats.vercel.app/api?username=aman-pa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://streak-stats.demolab.com?user=aman-pa&theme=tokyonight&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-pa&theme=tokyonight&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies:
 
