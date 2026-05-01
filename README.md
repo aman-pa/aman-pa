@@ -31,12 +31,14 @@ I enjoy building, learning, and continuously pushing my limits in tech 🚀
 
 ---
 
-## 📊 GitHub Stats:
-
+### 📊 GitHub Stats
 <p align="center">
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-pa&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aman-pa&show_icons=true&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aman-pa&layout=compact&theme=tokyonight" />
+</p>
 ## 🏆 GitHub Trophies:
 
 <p align="center">
