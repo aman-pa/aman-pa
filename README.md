@@ -30,18 +30,10 @@ I enjoy building, learning, and continuously pushing my limits in tech 🚀
 </p>
 
 ---
-## 📊 GitHub Stats:
 
+##GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aman-pa&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-pa&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aman-pa&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=aman-pa&theme=tokyonight" />
 </p>
 
 ## 🏆 GitHub Trophies:
