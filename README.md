@@ -41,9 +41,8 @@ I enjoy building, learning, and continuously pushing my limits in tech 🚀
 ## 🏆 GitHub Trophies:
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aman-pa&theme=radical&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aman-pa&theme=radical&margin-w=10" />
 </p>
-
 ---
 
 ## ✍️ Random Dev Quote:
