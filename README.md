@@ -32,13 +32,7 @@ I enjoy building, learning, and continuously pushing my limits in tech 🚀
 ---
 ## 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aman-pa&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-pa&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aman-pa&theme=tokyonight" />
